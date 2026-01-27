@@ -1,6 +1,6 @@
 <img width="2816" height="1536" alt="image" src="https://github.com/user-attachments/assets/893b8d5a-896e-4b86-b2ae-29dd71f0aad5" /># 项目名称
 
-> 示例：Solana 任务悬赏平台
+> Sol-Green 环保奖励平台
 
 ## 💻 项目 Repo
 
